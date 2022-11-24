@@ -1,0 +1,19 @@
+.navigateLoginButton {
+    width: 150px;
+    height: 50px;
+    display: flex;
+    border-style: none;
+    justify-content: center;
+    align-items: center;
+    background-color: #000;
+    text-decoration: underline;
+    color: #fff;
+    font-family: 'IBM Plex Sans JP', sans-serif;
+    font-weight: 300;
+    font-size: large;
+}
+
+.navigateLoginButton:hover {
+    cursor: pointer;
+    opacity: 75%;
+}

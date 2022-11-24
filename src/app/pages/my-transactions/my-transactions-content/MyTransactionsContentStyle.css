@@ -1,0 +1,26 @@
+.myTransactionsContent{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.table {
+    width: 20vw;
+}
+
+.title {
+    margin-bottom: 5vh;
+}
+
+.title > h1{
+    font-family: 'IBM Plex Sans JP', sans-serif;
+    font-size: 30px;
+}
+
+.trans-actions-buttons {
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,9 @@
+.sidebar {
+    background-color: #272727;
+    width: 15%;
+    height: 92.8vh;
+}
+
+.sidebar > h1{
+    margin-top: 0;
+}

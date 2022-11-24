@@ -1,0 +1,32 @@
+.newTransactionContent{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.textFields{
+    width: 30vw;
+    display: flex;
+    justify-content: center;
+}
+
+.userField{
+    width: 30%;
+}
+
+.valueField {
+    margin-left: 6vw;
+    width: 30%;
+}
+
+
+.newTransactionTitle {
+    margin-bottom: 5vh;
+}
+
+.newTransactionTitle > h1{
+    font-family: 'IBM Plex Sans JP', sans-serif;
+    font-size: 30px;
+}
