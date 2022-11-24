@@ -1,4 +1,4 @@
-# Aplicação fribt-end para o sistema NGCash utilizando React.js em Typescript
+# Aplicação front-end para o sistema NGCash utilizando React.js em Typescript
 Passos para executar:
 
 1. Clone o repositório para uma pasta local
